@@ -1,0 +1,1391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yellow Pencil\n"
+"POT-Creation-Date: 2015-09-16 12:37+0300\n"
+"PO-Revision-Date: 2015-09-16 12:37+0300\n"
+"Last-Translator: Wasp Themes <support@waspthemes.com>\n"
+"Language-Team: WaspThemes <support@waspthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: base.php:33 base.php:84 base.php:142 base.php:196 base.php:322 base.php:379
+#: options.php:880
+msgid "Disable"
+msgstr ""
+
+#: base.php:196
+msgid "transpa.."
+msgstr ""
+
+#: base.php:200
+msgid "Flat"
+msgstr ""
+
+#: base.php:200
+msgid "Material"
+msgstr ""
+
+#: base.php:200
+msgid "Nice"
+msgstr ""
+
+#: base.php:200
+msgid "Picker"
+msgstr ""
+
+#: base.php:329
+msgid "Upload"
+msgstr ""
+
+#: base.php:329
+msgid "Patterns"
+msgstr ""
+
+#: base.php:329
+msgid "More Assets"
+msgstr ""
+
+#: options.php:9
+msgid "You are customizing"
+msgstr ""
+
+#: options.php:13
+msgid "Text"
+msgstr ""
+
+#: options.php:18
+msgid "Font Family"
+msgstr ""
+
+#: options.php:732
+msgid "Search for and select fonts"
+msgstr ""
+
+#: options.php:738
+msgid "Font Weight"
+msgstr ""
+
+#: options.php:740
+msgid "Light"
+msgstr ""
+
+#: options.php:741
+msgid "normal"
+msgstr ""
+
+#: options.php:742
+msgid "Semi-Bold"
+msgstr ""
+
+#: options.php:743
+msgid "Bold"
+msgstr ""
+
+#: options.php:744
+msgid "Extra-Bold"
+msgstr ""
+
+#: options.php:747
+msgid "Set the font weight"
+msgstr ""
+
+#: options.php:753
+msgid "Font Style"
+msgstr ""
+
+#: options.php:755
+msgid "Normal"
+msgstr ""
+
+#: options.php:756
+msgid "Italic"
+msgstr ""
+
+#: options.php:764 options.php:1147 options.php:1180 options.php:1214
+#: options.php:1248 options.php:1644
+msgid "Color"
+msgstr ""
+
+#: options.php:770
+msgid "Text Shadow"
+msgstr ""
+
+#: options.php:785
+msgid "Font Size"
+msgstr ""
+
+#: options.php:795
+msgid "Line Height"
+msgstr ""
+
+#: options.php:801
+msgid "Set the leading"
+msgstr ""
+
+#: options.php:807
+msgid "text Decoration"
+msgstr ""
+
+#: options.php:809
+msgid "overline"
+msgstr ""
+
+#: options.php:810
+msgid "through"
+msgstr ""
+
+#: options.php:811
+msgid "underline"
+msgstr ""
+
+#: options.php:820
+msgid "Text Transform"
+msgstr ""
+
+#: options.php:822
+msgid "upprcase"
+msgstr ""
+
+#: options.php:823
+msgid "lowercase"
+msgstr ""
+
+#: options.php:824
+msgid "capitalize"
+msgstr ""
+
+#: options.php:832
+msgid "Text Align"
+msgstr ""
+
+#: options.php:834 options.php:1783
+msgid "left"
+msgstr ""
+
+#: options.php:835
+msgid "center"
+msgstr ""
+
+#: options.php:836 options.php:1784
+msgid "right"
+msgstr ""
+
+#: options.php:837
+msgid "justify"
+msgstr ""
+
+#: options.php:844
+msgid "Letter Spacing"
+msgstr ""
+
+#: options.php:854
+msgid "Word Spacing"
+msgstr ""
+
+#: options.php:866
+msgid "Background"
+msgstr ""
+
+#: options.php:869
+msgid "Background Parallax"
+msgstr ""
+
+#: options.php:877
+msgid "Effect Status"
+msgstr ""
+
+#: options.php:879
+msgid "Enable"
+msgstr ""
+
+#: options.php:887
+msgid "Parallax Speed"
+msgstr ""
+
+#: options.php:897
+msgid "Parallax Position X"
+msgstr ""
+
+#: options.php:909
+msgid "Background Color"
+msgstr ""
+
+#: options.php:914
+msgid "Background Image"
+msgstr ""
+
+#: options.php:920
+msgid "Background Size"
+msgstr ""
+
+#: options.php:922
+msgid "length"
+msgstr ""
+
+#: options.php:923
+msgid "cover"
+msgstr ""
+
+#: options.php:924
+msgid "contain"
+msgstr ""
+
+#: options.php:927
+msgid "The size of the background image"
+msgstr ""
+
+#: options.php:932
+msgid "Background Repeat"
+msgstr ""
+
+#: options.php:934
+msgid "repeat-x"
+msgstr ""
+
+#: options.php:935
+msgid "repeat-y"
+msgstr ""
+
+#: options.php:936
+msgid "no-repeat"
+msgstr ""
+
+#: options.php:939
+msgid "Sets if background image will be repeated"
+msgstr ""
+
+#: options.php:944
+msgid "BG. Attachment"
+msgstr ""
+
+#: options.php:946
+msgid "fixed"
+msgstr ""
+
+#: options.php:947
+msgid "local"
+msgstr ""
+
+#: options.php:950
+msgid ""
+"Sets whether a background image is fixed or scrolls with the rest of the page"
+msgstr ""
+
+#: options.php:956
+msgid "BG. Position"
+msgstr ""
+
+#: options.php:958
+msgid "left top"
+msgstr ""
+
+#: options.php:959
+msgid "left center"
+msgstr ""
+
+#: options.php:960
+msgid "left bottom"
+msgstr ""
+
+#: options.php:961
+msgid "right top"
+msgstr ""
+
+#: options.php:962
+msgid "right center"
+msgstr ""
+
+#: options.php:963
+msgid "right bottom"
+msgstr ""
+
+#: options.php:964
+msgid "center top"
+msgstr ""
+
+#: options.php:965
+msgid "center center"
+msgstr ""
+
+#: options.php:966
+msgid "center bottom"
+msgstr ""
+
+#: options.php:969
+msgid "Sets the starting position of a background image"
+msgstr ""
+
+#: options.php:976
+msgid "Margin"
+msgstr ""
+
+#: options.php:982
+msgid "Margin Left"
+msgstr ""
+
+#: options.php:988 options.php:999 options.php:1010 options.php:1021
+msgid ""
+"The margin clears an area around an element. The margin does not have a "
+"background color, and is completely transparent."
+msgstr ""
+
+#: options.php:993
+msgid "Margin Right"
+msgstr ""
+
+#: options.php:1004
+msgid "Margin Top"
+msgstr ""
+
+#: options.php:1015
+msgid "Margin Bottom"
+msgstr ""
+
+#: options.php:1029
+msgid "Padding"
+msgstr ""
+
+#: options.php:1035
+msgid "Padding Left"
+msgstr ""
+
+#: options.php:1041 options.php:1052 options.php:1063 options.php:1074
+msgid ""
+"The padding clears an area around the content of an element. The padding is "
+"affected by the background color of the element."
+msgstr ""
+
+#: options.php:1046
+msgid "Padding Right"
+msgstr ""
+
+#: options.php:1057
+msgid "Padding Top"
+msgstr ""
+
+#: options.php:1068
+msgid "Padding Bottom"
+msgstr ""
+
+#: options.php:1083
+msgid "Border"
+msgstr ""
+
+#: options.php:1089
+msgid "Border Style"
+msgstr ""
+
+#: options.php:1091 options.php:1125 options.php:1158 options.php:1192
+#: options.php:1226
+msgid "solid"
+msgstr ""
+
+#: options.php:1092
+msgid "dotted"
+msgstr ""
+
+#: options.php:1093
+msgid "dashed"
+msgstr ""
+
+#: options.php:1094 options.php:1818 options.php:1830
+msgid "hidden"
+msgstr ""
+
+#: options.php:1097
+msgid ""
+"Sets the style of an elements four borders. This property can have from one "
+"to four values."
+msgstr ""
+
+#: options.php:1103
+msgid "Border Width"
+msgstr ""
+
+#: options.php:1109
+msgid ""
+"Sets the width of an elements four borders. This property can have from one "
+"to four values."
+msgstr ""
+
+#: options.php:1114
+msgid "Border Color"
+msgstr ""
+
+#: options.php:1115
+msgid "Sets the color of an elements four borders."
+msgstr ""
+
+#: options.php:1119
+msgid "Border Top"
+msgstr ""
+
+#: options.php:1123 options.php:1156 options.php:1190 options.php:1224
+msgid "Style"
+msgstr ""
+
+#: options.php:1126 options.php:1159 options.php:1193 options.php:1227
+msgid "dottd"
+msgstr ""
+
+#: options.php:1127 options.php:1160 options.php:1194 options.php:1228
+msgid "dashd"
+msgstr ""
+
+#: options.php:1128 options.php:1161 options.php:1195 options.php:1229
+msgid "hiddn"
+msgstr ""
+
+#: options.php:1131
+msgid "Sets the style of an elements top border."
+msgstr ""
+
+#: options.php:1136 options.php:1169 options.php:1203 options.php:1237
+#: options.php:1392
+msgid "Width"
+msgstr ""
+
+#: options.php:1142
+msgid "Sets the width of an elements top border."
+msgstr ""
+
+#: options.php:1148
+msgid "Sets the color of an elements top border."
+msgstr ""
+
+#: options.php:1152
+msgid "Border Right"
+msgstr ""
+
+#: options.php:1164
+msgid "Sets the style of an elements right border."
+msgstr ""
+
+#: options.php:1175
+msgid "Sets the width of an elements right border."
+msgstr ""
+
+#: options.php:1181
+msgid "Sets the color of an elements right border."
+msgstr ""
+
+#: options.php:1186
+msgid "Border Bottom"
+msgstr ""
+
+#: options.php:1198
+msgid "Sets the style of an elements bottom border."
+msgstr ""
+
+#: options.php:1209
+msgid "Sets the width of an elements bottom border."
+msgstr ""
+
+#: options.php:1215
+msgid "Sets the color of an elements bottom border."
+msgstr ""
+
+#: options.php:1220
+msgid "Border Left"
+msgstr ""
+
+#: options.php:1232
+msgid "Sets the style of an elements left border."
+msgstr ""
+
+#: options.php:1243
+msgid "Sets the width of an elements left border."
+msgstr ""
+
+#: options.php:1249
+msgid "Sets the color of an elements left border."
+msgstr ""
+
+#: options.php:1259
+msgid "Border Radius"
+msgstr ""
+
+#: options.php:1264
+msgid "Top Left Radius"
+msgstr ""
+
+#: options.php:1270
+msgid "Defines the shape of the border of the top-left corner"
+msgstr ""
+
+#: options.php:1275
+msgid "Top Right Radius"
+msgstr ""
+
+#: options.php:1281
+msgid "Defines the shape of the border of the top-right corner"
+msgstr ""
+
+#: options.php:1286
+msgid "Bottom Left Radius"
+msgstr ""
+
+#: options.php:1292
+msgid "Defines the shape of the border of the bottom-left corner"
+msgstr ""
+
+#: options.php:1297
+msgid "Bottom Right Radius"
+msgstr ""
+
+#: options.php:1303
+msgid "Defines the shape of the border of the bottom-right corner"
+msgstr ""
+
+#: options.php:1311 options.php:1327
+msgid "Position"
+msgstr ""
+
+#: options.php:1316
+msgid "Z Index"
+msgstr ""
+
+#: options.php:1322
+msgid ""
+"Specifies the stack order of an element. Z index only works on positioned "
+"elements (position:absolute, position:relative, or position:fixed)."
+msgstr ""
+
+#: options.php:1335
+msgid "Specifies the type of positioning method used for an element"
+msgstr ""
+
+#: options.php:1341
+msgid "Top"
+msgstr ""
+
+#: options.php:1347
+msgid ""
+"For absolutely: positioned elements, the top property sets the top edge of "
+"an element to a unit above/below the top edge of its containing element. For "
+"relatively: positioned elements, the top property sets the top edge of an "
+"element to a unit above/below its normal position."
+msgstr ""
+
+#: options.php:1352
+msgid "Bottom"
+msgstr ""
+
+#: options.php:1358
+msgid ""
+"For absolutely: positioned elements, the bottom property sets the bottom "
+"edge of an element to a unit above/below the bottom edge of its containing "
+"element. For relatively: positioned elements, the bottom property sets the "
+"bottom edge of an element to a unit above/below its normal position."
+msgstr ""
+
+#: options.php:1363
+msgid "Left"
+msgstr ""
+
+#: options.php:1369
+msgid ""
+"For absolutely: positioned elements, the left property sets the left edge of "
+"an element to a unit to the left/right of the left edge of its containing "
+"element. For relatively: positioned elements, the left property sets the "
+"left edge of an element to a unit to the left/right to its normal position."
+msgstr ""
+
+#: options.php:1374
+msgid "Right"
+msgstr ""
+
+#: options.php:1380
+msgid ""
+"For absolutely: positioned elements, the right property sets the right edge "
+"of an element to a unit to the left/right of the right edge of its "
+"containing element. For relatively: positioned elements, the right property "
+"sets the right edge of an element to a unit to the left/right to its normal "
+"position."
+msgstr ""
+
+#: options.php:1387
+msgid "Size"
+msgstr ""
+
+#: options.php:1398
+msgid "Sets the width of an element"
+msgstr ""
+
+#: options.php:1403
+msgid "Height"
+msgstr ""
+
+#: options.php:1409
+msgid "sets the height of an element"
+msgstr ""
+
+#: options.php:1414
+msgid "Minimum Width"
+msgstr ""
+
+#: options.php:1420
+msgid "is used to set the minimum width of an element"
+msgstr ""
+
+#: options.php:1425
+msgid "Maximum Width"
+msgstr ""
+
+#: options.php:1431
+msgid "is used to set the maximum width of an element"
+msgstr ""
+
+#: options.php:1436
+msgid "Minimum Height"
+msgstr ""
+
+#: options.php:1442
+msgid "is used to set the minimum height of an element"
+msgstr ""
+
+#: options.php:1447
+msgid "Maximum Height"
+msgstr ""
+
+#: options.php:1453
+msgid "is used to set the maximum height of an element"
+msgstr ""
+
+#: options.php:1461
+msgid "Animation"
+msgstr ""
+
+#: options.php:1464
+msgid "If animation property not working, please set display block property."
+msgstr ""
+
+#: options.php:1469
+msgid "Animation Name"
+msgstr ""
+
+#: options.php:1531
+msgid "Animation Play"
+msgstr ""
+
+#: options.php:1533
+msgid "onScreen"
+msgstr ""
+
+#: options.php:1534
+msgid "Hover"
+msgstr ""
+
+#: options.php:1535
+msgid "Click"
+msgstr ""
+
+#: options.php:1536
+msgid "Focus"
+msgstr ""
+
+#: options.php:1539
+msgid ""
+"OnScreen: Playing animation when element visible on screen. Hover: Playing "
+"animation when mouse on element. Click: Playing animation when element "
+"clicked. FOcus: Playing element when click on an text field."
+msgstr ""
+
+#: options.php:1544
+msgid "animation Iteration"
+msgstr ""
+
+#: options.php:1548
+msgid "infinite"
+msgstr ""
+
+#: options.php:1560
+msgid "Filters"
+msgstr ""
+
+#: options.php:1562
+msgid "Internet explorer not support filters property."
+msgstr ""
+
+#: options.php:1566
+msgid "Blur"
+msgstr ""
+
+#: options.php:1576
+msgid "Brightness"
+msgstr ""
+
+#: options.php:1586
+msgid "Grayscale"
+msgstr ""
+
+#: options.php:1596
+msgid "Contrast"
+msgstr ""
+
+#: options.php:1606
+msgid "Hue Rotate"
+msgstr ""
+
+#: options.php:1616
+msgid "Saturate"
+msgstr ""
+
+#: options.php:1626
+msgid "Sepia"
+msgstr ""
+
+#: options.php:1637
+msgid "Box Shadow"
+msgstr ""
+
+#: options.php:1640
+msgid ""
+"\"box shadow\" adding shadow to element. If you want Diable box shadow "
+"property, set zero to all box shadow options."
+msgstr ""
+
+#: options.php:1649
+msgid "Horizontal Length"
+msgstr ""
+
+#: options.php:1659
+msgid "Vertical Length"
+msgstr ""
+
+#: options.php:1669
+msgid "Blur Radius"
+msgstr ""
+
+#: options.php:1679
+msgid "Spread"
+msgstr ""
+
+#: options.php:1689
+msgid "Inset"
+msgstr ""
+
+#: options.php:1691
+msgid "no"
+msgstr ""
+
+#: options.php:1692
+msgid "inset"
+msgstr ""
+
+#: options.php:1701
+msgid "Extra"
+msgstr ""
+
+#: options.php:1704
+msgid "Transform"
+msgstr ""
+
+#: options.php:1708
+msgid "Scale"
+msgstr ""
+
+#: options.php:1718
+msgid "Rotate"
+msgstr ""
+
+#: options.php:1728
+msgid "Translate X"
+msgstr ""
+
+#: options.php:1738
+msgid "Translate Y"
+msgstr ""
+
+#: options.php:1748
+msgid "Skew X"
+msgstr ""
+
+#: options.php:1758
+msgid "skew Y"
+msgstr ""
+
+#: options.php:1770
+msgid "Opacity"
+msgstr ""
+
+#: options.php:1776
+msgid ""
+"The opacity property can take a value from 0.0 - 1.0. The lower value, the "
+"more transparent."
+msgstr ""
+
+#: options.php:1781
+msgid "Float"
+msgstr ""
+
+#: options.php:1787
+msgid "Specifies whether or not a box (an element) should float."
+msgstr ""
+
+#: options.php:1792
+msgid "Box Sizing"
+msgstr ""
+
+#: options.php:1794
+msgid "border-box"
+msgstr ""
+
+#: options.php:1795
+msgid "content-box"
+msgstr ""
+
+#: options.php:1798
+msgid ""
+"is used to tell the browser what the sizing properties (width and height) "
+"should include. Should they include the border-box? Or just the content-box "
+"(which is the default value of the width and height properties)?"
+msgstr ""
+
+#: options.php:1803
+msgid "Display"
+msgstr ""
+
+#: options.php:1805
+msgid "inline"
+msgstr ""
+
+#: options.php:1806
+msgid "block"
+msgstr ""
+
+#: options.php:1807
+msgid "inl-blck"
+msgstr ""
+
+#: options.php:1808
+msgid "tbl-cell"
+msgstr ""
+
+#: options.php:1811
+msgid "Specifies the type of box used for an element."
+msgstr ""
+
+#: options.php:1816
+msgid "Overflow X"
+msgstr ""
+
+#: options.php:1819 options.php:1831
+msgid "scroll"
+msgstr ""
+
+#: options.php:1820 options.php:1832
+msgid "auto"
+msgstr ""
+
+#: options.php:1823 options.php:1835
+msgid ""
+"specifies what to do with the left/right edges of the content - if it "
+"overflows the elements content area."
+msgstr ""
+
+#: options.php:1828
+msgid "Overflow Y"
+msgstr ""
+
+#: options.php:1843
+msgid "Documentation"
+msgstr ""
+
+#: yellow-pencil.php:244 yellow-pencil.php:1468
+msgid "Save"
+msgstr ""
+
+#: yellow-pencil.php:246
+msgid "Select Body Tag"
+msgstr ""
+
+#: yellow-pencil.php:248
+msgid "Reset Options"
+msgstr ""
+
+#: yellow-pencil.php:250 yellow-pencil.php:257
+msgid "Desktop Mode"
+msgstr ""
+
+#: yellow-pencil.php:252 yellow-pencil.php:258
+msgid "Tablet Mode"
+msgstr ""
+
+#: yellow-pencil.php:254 yellow-pencil.php:259
+msgid "Mobile Mode"
+msgstr ""
+
+#: yellow-pencil.php:504
+msgid "Customize Theme"
+msgstr ""
+
+#: yellow-pencil.php:504
+msgid ""
+"Apply global style if you want customize any element that showing on every "
+"pages 'Header', 'Navigation', 'Footer' etc. Global styles will show on all "
+"pages."
+msgstr ""
+
+#: yellow-pencil.php:504
+msgid "Apply Global Style to theme"
+msgstr ""
+
+#: yellow-pencil.php:509
+msgid "Customize Pages"
+msgstr ""
+
+#: yellow-pencil.php:509
+msgid ""
+"Use this links if you want customize only some pages. For example if you "
+"customize 'Abc' page, this changes will work only this page."
+msgstr ""
+
+#: yellow-pencil.php:509
+msgid "Apply style to pages"
+msgstr ""
+
+#: yellow-pencil.php:513
+msgid "Customize Similar Pages"
+msgstr ""
+
+#: yellow-pencil.php:513
+msgid ""
+"Use this links if you want customize all Similar pages. For example if you "
+"customize any category page, this changes will only work on all category "
+"pages."
+msgstr ""
+
+#: yellow-pencil.php:513
+msgid "Apply Style to all similar pages"
+msgstr ""
+
+#: yellow-pencil.php:519
+msgid "Click on any element that you want customize!"
+msgstr ""
+
+#: yellow-pencil.php:1467
+msgid "Saving"
+msgstr ""
+
+#: yellow-pencil.php:1469
+msgid "Saved"
+msgstr ""
+
+#: yellow-pencil.php:1470
+msgid "Not Saved because this is only demo!"
+msgstr ""
+
+#: yellow-pencil.php:1472
+msgid "Logo"
+msgstr ""
+
+#: yellow-pencil.php:1473
+msgid "Google Map"
+msgstr ""
+
+#: yellow-pencil.php:1474
+msgid "Entry Title Link"
+msgstr ""
+
+#: yellow-pencil.php:1475
+msgid "Category Link"
+msgstr ""
+
+#: yellow-pencil.php:1476
+msgid "Tag Link"
+msgstr ""
+
+#: yellow-pencil.php:1477
+msgid "Widget"
+msgstr ""
+
+#: yellow-pencil.php:1478
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: yellow-pencil.php:1479
+msgid "Submit Button"
+msgstr ""
+
+#: yellow-pencil.php:1480
+msgid "Menu Item"
+msgstr ""
+
+#: yellow-pencil.php:1481
+msgid "Post Meta Division"
+msgstr ""
+
+#: yellow-pencil.php:1482
+msgid "Comment Reply Title"
+msgstr ""
+
+#: yellow-pencil.php:1483
+msgid "Login Info"
+msgstr ""
+
+#: yellow-pencil.php:1484
+msgid "Allowed Tags"
+msgstr ""
+
+#: yellow-pencil.php:1485
+msgid "Post Title"
+msgstr ""
+
+#: yellow-pencil.php:1486
+msgid "Comment Form"
+msgstr ""
+
+#: yellow-pencil.php:1487
+msgid "Widget title"
+msgstr ""
+
+#: yellow-pencil.php:1488
+msgid "Tag Cloud"
+msgstr ""
+
+#: yellow-pencil.php:1489
+msgid "Row"
+msgstr ""
+
+#: yellow-pencil.php:1490
+msgid "Button"
+msgstr ""
+
+#: yellow-pencil.php:1491
+msgid "Lead"
+msgstr ""
+
+#: yellow-pencil.php:1492
+msgid "Well"
+msgstr ""
+
+#: yellow-pencil.php:1493
+msgid "Accordion Toggle"
+msgstr ""
+
+#: yellow-pencil.php:1494
+msgid "Accordion Content"
+msgstr ""
+
+#: yellow-pencil.php:1495
+msgid "Alert Division"
+msgstr ""
+
+#: yellow-pencil.php:1496
+msgid "Footer Content"
+msgstr ""
+
+#: yellow-pencil.php:1497
+msgid "Global Section"
+msgstr ""
+
+#: yellow-pencil.php:1498
+msgid "Show More Link"
+msgstr ""
+
+#: yellow-pencil.php:1499
+msgid "Wrapper"
+msgstr ""
+
+#: yellow-pencil.php:1500
+msgid "Article title"
+msgstr ""
+
+#: yellow-pencil.php:1501
+msgid "Column"
+msgstr ""
+
+#: yellow-pencil.php:1502
+msgid "Post Division"
+msgstr ""
+
+#: yellow-pencil.php:1503
+msgid "Content Division"
+msgstr ""
+
+#: yellow-pencil.php:1504
+msgid "Entry Title"
+msgstr ""
+
+#: yellow-pencil.php:1505
+msgid "Entry Content"
+msgstr ""
+
+#: yellow-pencil.php:1506
+msgid "Entry Footer"
+msgstr ""
+
+#: yellow-pencil.php:1507
+msgid "Entry Header"
+msgstr ""
+
+#: yellow-pencil.php:1508
+msgid "Entry Time"
+msgstr ""
+
+#: yellow-pencil.php:1509
+msgid "Post Edit Link"
+msgstr ""
+
+#: yellow-pencil.php:1510
+msgid "Post Thumbnail"
+msgstr ""
+
+#: yellow-pencil.php:1511
+msgid "Thumbnail"
+msgstr ""
+
+#: yellow-pencil.php:1512
+msgid "Thumbnail Image"
+msgstr ""
+
+#: yellow-pencil.php:1513
+msgid "Edit Link"
+msgstr ""
+
+#: yellow-pencil.php:1514
+msgid "Comments Link Division"
+msgstr ""
+
+#: yellow-pencil.php:1515
+msgid "Site Description"
+msgstr ""
+
+#: yellow-pencil.php:1516
+msgid "Post Break"
+msgstr ""
+
+#: yellow-pencil.php:1517
+msgid "Paragraph"
+msgstr ""
+
+#: yellow-pencil.php:1518
+msgid "Line Break"
+msgstr ""
+
+#: yellow-pencil.php:1519
+msgid "Horizontal Rule"
+msgstr ""
+
+#: yellow-pencil.php:1520
+msgid "Link"
+msgstr ""
+
+#: yellow-pencil.php:1521
+msgid "List Item"
+msgstr ""
+
+#: yellow-pencil.php:1522
+msgid "Unorganized List"
+msgstr ""
+
+#: yellow-pencil.php:1523
+msgid "Image"
+msgstr ""
+
+#: yellow-pencil.php:1524
+msgid "Bold Tag"
+msgstr ""
+
+#: yellow-pencil.php:1525
+msgid "Italic Tag"
+msgstr ""
+
+#: yellow-pencil.php:1526
+msgid "Strong Tag"
+msgstr ""
+
+#: yellow-pencil.php:1527
+msgid "Block Quote"
+msgstr ""
+
+#: yellow-pencil.php:1528
+msgid "Preformatted"
+msgstr ""
+
+#: yellow-pencil.php:1529
+msgid "Table"
+msgstr ""
+
+#: yellow-pencil.php:1530
+msgid "Table Row"
+msgstr ""
+
+#: yellow-pencil.php:1531
+msgid "Table Data"
+msgstr ""
+
+#: yellow-pencil.php:1532
+msgid "Header Division"
+msgstr ""
+
+#: yellow-pencil.php:1533
+msgid "Footer Division"
+msgstr ""
+
+#: yellow-pencil.php:1534
+msgid "Section"
+msgstr ""
+
+#: yellow-pencil.php:1535
+msgid "Form Division"
+msgstr ""
+
+#: yellow-pencil.php:1536
+msgid "Centred block"
+msgstr ""
+
+#: yellow-pencil.php:1537
+msgid "Definition list"
+msgstr ""
+
+#: yellow-pencil.php:1538
+msgid "Definition term"
+msgstr ""
+
+#: yellow-pencil.php:1539
+msgid "Definition description"
+msgstr ""
+
+#: yellow-pencil.php:1540
+msgid "Header"
+msgstr ""
+
+#: yellow-pencil.php:1541
+msgid "Level"
+msgstr ""
+
+#: yellow-pencil.php:1542
+msgid "Smaller text"
+msgstr ""
+
+#: yellow-pencil.php:1543
+msgid "Text Area"
+msgstr ""
+
+#: yellow-pencil.php:1544
+msgid "Body Of Table"
+msgstr ""
+
+#: yellow-pencil.php:1545
+msgid "Head Of Table"
+msgstr ""
+
+#: yellow-pencil.php:1546
+msgid "Foot of table"
+msgstr ""
+
+#: yellow-pencil.php:1547
+msgid "Underline text"
+msgstr ""
+
+#: yellow-pencil.php:1548
+msgid "Span"
+msgstr ""
+
+#: yellow-pencil.php:1549
+msgid "Quotation"
+msgstr ""
+
+#: yellow-pencil.php:1550
+msgid "Citation"
+msgstr ""
+
+#: yellow-pencil.php:1551
+msgid "Extract of code"
+msgstr ""
+
+#: yellow-pencil.php:1552
+msgid "Navigation"
+msgstr ""
+
+#: yellow-pencil.php:1553
+msgid "Label"
+msgstr ""
+
+#: yellow-pencil.php:1554
+msgid "Time"
+msgstr ""
+
+#: yellow-pencil.php:1555
+msgid "Division"
+msgstr ""
+
+#: yellow-pencil.php:1556
+msgid "Caption Of table"
+msgstr ""
+
+#: yellow-pencil.php:1557
+msgid "Input"
+msgstr ""
+
+#: yellow-pencil.php:1558
+msgid "Are you sure you want to leave page without saving?"
+msgstr ""
+
+#: yellow-pencil.php:1559
+msgid "You want reset current options?"
+msgstr ""
+
+#: yellow-pencil.php:1620
+msgid "CSS Editor"
+msgstr ""
+
+#: yellow-pencil.php:1622
+msgid "Undo"
+msgstr ""
+
+#: yellow-pencil.php:1623
+msgid "Redo"
+msgstr ""
+
+#: yellow-pencil.php:1625
+msgid "Fullscreen"
+msgstr ""
+
+#: yellow-pencil.php:1637
+msgid "Hide CSS Editor"
+msgstr ""
+
+#: yellow-pencil.php:1692
+msgid "Get Premium"
+msgstr ""
+
+#: yellow-pencil.php:1749
+msgid "Settings saved."
+msgstr ""
+
+#: yellow-pencil.php:1760
+msgid ""
+"You will see all customized pages here. You can easily delete the style from "
+"this page or you can customize."
+msgstr ""
+
+#: yellow-pencil.php:1768
+msgid "Global Theme Styles"
+msgstr ""
+
+#: yellow-pencil.php:1769 yellow-pencil.php:1793 yellow-pencil.php:1812
+#: yellow-pencil.php:1821 yellow-pencil.php:1830 yellow-pencil.php:1848
+#: yellow-pencil.php:1866 yellow-pencil.php:1875 yellow-pencil.php:1897
+msgid "Delete"
+msgstr ""
+
+#: yellow-pencil.php:1771 yellow-pencil.php:1795 yellow-pencil.php:1813
+#: yellow-pencil.php:1822 yellow-pencil.php:1831 yellow-pencil.php:1849
+#: yellow-pencil.php:1867 yellow-pencil.php:1876 yellow-pencil.php:1899
+msgid "Customize"
+msgstr ""
+
+#: yellow-pencil.php:1915
+msgid "No CSS Source! Customize something on your theme."
+msgstr ""

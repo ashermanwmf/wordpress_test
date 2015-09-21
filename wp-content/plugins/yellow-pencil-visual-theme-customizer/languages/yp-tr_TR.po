@@ -1,0 +1,1501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yellow Pencil\n"
+"POT-Creation-Date: 2015-09-16 12:37+0300\n"
+"PO-Revision-Date: 2015-09-16 12:41+0300\n"
+"Last-Translator: Wasp Themes <support@waspthemes.com>\n"
+"Language-Team: WaspThemes <support@waspthemes.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: base.php:33 base.php:84 base.php:142 base.php:196 base.php:322 base.php:379
+#: options.php:880
+msgid "Disable"
+msgstr "Devre Dışı"
+
+#: base.php:196
+msgid "transpa.."
+msgstr "şeffaf"
+
+#: base.php:200
+msgid "Flat"
+msgstr ""
+
+#: base.php:200
+msgid "Material"
+msgstr ""
+
+#: base.php:200
+msgid "Nice"
+msgstr ""
+
+#: base.php:200
+msgid "Picker"
+msgstr "Seçiçi"
+
+#: base.php:329
+msgid "Upload"
+msgstr "Yükle"
+
+#: base.php:329
+msgid "Patterns"
+msgstr "Desenler"
+
+#: base.php:329
+msgid "More Assets"
+msgstr "Daha Fazla"
+
+#: options.php:9
+msgid "You are customizing"
+msgstr "Şuanda düzenliyorsun"
+
+#: options.php:13
+msgid "Text"
+msgstr "Yazı"
+
+#: options.php:18
+msgid "Font Family"
+msgstr "Yazı Tipi"
+
+#: options.php:732
+msgid "Search for and select fonts"
+msgstr "Yazı Tipini Seç"
+
+#: options.php:738
+msgid "Font Weight"
+msgstr "Yazı kalınlığı"
+
+#: options.php:740
+msgid "Light"
+msgstr "İnce"
+
+#: options.php:741
+msgid "normal"
+msgstr ""
+
+#: options.php:742
+msgid "Semi-Bold"
+msgstr "Yarı Kalın"
+
+#: options.php:743
+msgid "Bold"
+msgstr "Kalın"
+
+#: options.php:744
+msgid "Extra-Bold"
+msgstr "Ekstra Kalın"
+
+#: options.php:747
+msgid "Set the font weight"
+msgstr "Yazı kalınlığı"
+
+#: options.php:753
+msgid "Font Style"
+msgstr "Yazı Stili"
+
+#: options.php:755
+msgid "Normal"
+msgstr ""
+
+#: options.php:756
+msgid "Italic"
+msgstr "İtalik"
+
+#: options.php:764 options.php:1147 options.php:1180 options.php:1214
+#: options.php:1248 options.php:1644
+msgid "Color"
+msgstr "Renk"
+
+#: options.php:770
+msgid "Text Shadow"
+msgstr "Metin gölgesi"
+
+#: options.php:785
+msgid "Font Size"
+msgstr "Yazı Boyutu"
+
+#: options.php:795
+msgid "Line Height"
+msgstr "Satır Yüksekliği"
+
+#: options.php:801
+msgid "Set the leading"
+msgstr "Karakter aralığı genişliği"
+
+#: options.php:807
+msgid "text Decoration"
+msgstr "Yazı  Dekorasyon"
+
+#: options.php:809
+msgid "overline"
+msgstr "Üstü Çizgi"
+
+#: options.php:810
+msgid "through"
+msgstr "Üstü Çizili"
+
+#: options.php:811
+msgid "underline"
+msgstr "Altı çizgili"
+
+#: options.php:820
+msgid "Text Transform"
+msgstr "Metin Dönüştürme"
+
+#: options.php:822
+msgid "upprcase"
+msgstr ""
+
+#: options.php:823
+msgid "lowercase"
+msgstr "Küçük harf"
+
+#: options.php:824
+msgid "capitalize"
+msgstr "İlk Harf"
+
+#: options.php:832
+msgid "Text Align"
+msgstr "Metin Hizala"
+
+#: options.php:834 options.php:1783
+msgid "left"
+msgstr "Sol"
+
+#: options.php:835
+msgid "center"
+msgstr "Orta"
+
+#: options.php:836 options.php:1784
+msgid "right"
+msgstr "Sağ"
+
+#: options.php:837
+msgid "justify"
+msgstr "Hizala"
+
+#: options.php:844
+msgid "Letter Spacing"
+msgstr "Harf Aralığı"
+
+#: options.php:854
+msgid "Word Spacing"
+msgstr "Sözcük Aralığı"
+
+#: options.php:866
+msgid "Background"
+msgstr "Arkaplan"
+
+#: options.php:869
+msgid "Background Parallax"
+msgstr "Paralaks Arkaplan"
+
+#: options.php:877
+msgid "Effect Status"
+msgstr "Efek Durumu"
+
+#: options.php:879
+msgid "Enable"
+msgstr "Aktif"
+
+#: options.php:887
+msgid "Parallax Speed"
+msgstr "Paralaks Hızı"
+
+#: options.php:897
+msgid "Parallax Position X"
+msgstr "Paralaks Pozisyon X"
+
+#: options.php:909
+msgid "Background Color"
+msgstr "Arka Plan Rengi"
+
+#: options.php:914
+msgid "Background Image"
+msgstr "Arkaplan Görseli"
+
+#: options.php:920
+msgid "Background Size"
+msgstr "Arkaplan Boyutu"
+
+#: options.php:922
+msgid "length"
+msgstr ""
+
+#: options.php:923
+msgid "cover"
+msgstr ""
+
+#: options.php:924
+msgid "contain"
+msgstr ""
+
+#: options.php:927
+msgid "The size of the background image"
+msgstr "Arka plan boyutu"
+
+#: options.php:932
+msgid "Background Repeat"
+msgstr "Arkaplan Tekrarı"
+
+#: options.php:934
+msgid "repeat-x"
+msgstr ""
+
+#: options.php:935
+msgid "repeat-y"
+msgstr ""
+
+#: options.php:936
+msgid "no-repeat"
+msgstr ""
+
+#: options.php:939
+msgid "Sets if background image will be repeated"
+msgstr "Arka plan resminin tekrar edip etmeyeceğini belirler"
+
+#: options.php:944
+msgid "BG. Attachment"
+msgstr ""
+
+#: options.php:946
+msgid "fixed"
+msgstr "Sabit"
+
+#: options.php:947
+msgid "local"
+msgstr "Yerel"
+
+#: options.php:950
+msgid ""
+"Sets whether a background image is fixed or scrolls with the rest of the page"
+msgstr "Sayfa kaydırıldığında Arka planının kayıp kaymayacağını belirler."
+
+#: options.php:956
+msgid "BG. Position"
+msgstr ""
+
+#: options.php:958
+msgid "left top"
+msgstr "Sol Üst"
+
+#: options.php:959
+msgid "left center"
+msgstr "Sol Orta"
+
+#: options.php:960
+msgid "left bottom"
+msgstr "Sol Alt"
+
+#: options.php:961
+msgid "right top"
+msgstr "Sağ Üst"
+
+#: options.php:962
+msgid "right center"
+msgstr "Sağ Orta"
+
+#: options.php:963
+msgid "right bottom"
+msgstr "Sağ Alt"
+
+#: options.php:964
+msgid "center top"
+msgstr "Orta Üst"
+
+#: options.php:965
+msgid "center center"
+msgstr "Orta"
+
+#: options.php:966
+msgid "center bottom"
+msgstr "Orta Alt"
+
+#: options.php:969
+msgid "Sets the starting position of a background image"
+msgstr "Arkaplan görüntüsünün başlangıç ​​onumunu belirler"
+
+#: options.php:976
+msgid "Margin"
+msgstr "Dış Boşluk"
+
+#: options.php:982
+msgid "Margin Left"
+msgstr "Sol Boşluk"
+
+#: options.php:988 options.php:999 options.php:1010 options.php:1021
+msgid ""
+"The margin clears an area around an element. The margin does not have a "
+"background color, and is completely transparent."
+msgstr "Seçilen elementin dış aralığını belirler."
+
+#: options.php:993
+msgid "Margin Right"
+msgstr "Sağ Boşluk"
+
+#: options.php:1004
+msgid "Margin Top"
+msgstr "Üst Boşluk"
+
+#: options.php:1015
+msgid "Margin Bottom"
+msgstr "Alt Boşluk"
+
+#: options.php:1029
+msgid "Padding"
+msgstr "İç Boşluk"
+
+#: options.php:1035
+msgid "Padding Left"
+msgstr "Sol İç Boşluk"
+
+#: options.php:1041 options.php:1052 options.php:1063 options.php:1074
+msgid ""
+"The padding clears an area around the content of an element. The padding is "
+"affected by the background color of the element."
+msgstr "Seçilen elemente iç boşluk verir."
+
+#: options.php:1046
+msgid "Padding Right"
+msgstr "Sağ İç Boşluk"
+
+#: options.php:1057
+msgid "Padding Top"
+msgstr "Üst İç Boşluk"
+
+#: options.php:1068
+msgid "Padding Bottom"
+msgstr "Alt İç Boşluk"
+
+#: options.php:1083
+msgid "Border"
+msgstr "Kenar"
+
+#: options.php:1089
+msgid "Border Style"
+msgstr "Çerçeve biçimi"
+
+#: options.php:1091 options.php:1125 options.php:1158 options.php:1192
+#: options.php:1226
+msgid "solid"
+msgstr "Düz"
+
+#: options.php:1092
+msgid "dotted"
+msgstr "Noktalı"
+
+#: options.php:1093
+msgid "dashed"
+msgstr "Kesikli"
+
+#: options.php:1094 options.php:1818 options.php:1830
+msgid "hidden"
+msgstr "Gizli"
+
+#: options.php:1097
+msgid ""
+"Sets the style of an elements four borders. This property can have from one "
+"to four values."
+msgstr "Seçilen elemente dış çizgi verir"
+
+#: options.php:1103
+msgid "Border Width"
+msgstr "Çerçeve Genişliği"
+
+#: options.php:1109
+msgid ""
+"Sets the width of an elements four borders. This property can have from one "
+"to four values."
+msgstr "Seçilen elementin dış çizgi genişliğini belirler"
+
+#: options.php:1114
+msgid "Border Color"
+msgstr "Çerçeve Rengi"
+
+#: options.php:1115
+msgid "Sets the color of an elements four borders."
+msgstr "Seçilen elementin dış çizgi rengini belirler"
+
+#: options.php:1119
+msgid "Border Top"
+msgstr "Üst Kenar"
+
+#: options.php:1123 options.php:1156 options.php:1190 options.php:1224
+msgid "Style"
+msgstr ""
+
+#: options.php:1126 options.php:1159 options.php:1193 options.php:1227
+msgid "dottd"
+msgstr ""
+
+#: options.php:1127 options.php:1160 options.php:1194 options.php:1228
+msgid "dashd"
+msgstr ""
+
+#: options.php:1128 options.php:1161 options.php:1195 options.php:1229
+msgid "hiddn"
+msgstr ""
+
+#: options.php:1131
+msgid "Sets the style of an elements top border."
+msgstr ""
+
+#: options.php:1136 options.php:1169 options.php:1203 options.php:1237
+#: options.php:1392
+msgid "Width"
+msgstr "Genişlik"
+
+#: options.php:1142
+msgid "Sets the width of an elements top border."
+msgstr ""
+
+#: options.php:1148
+msgid "Sets the color of an elements top border."
+msgstr ""
+
+#: options.php:1152
+msgid "Border Right"
+msgstr "Sağ Kenar"
+
+#: options.php:1164
+msgid "Sets the style of an elements right border."
+msgstr ""
+
+#: options.php:1175
+msgid "Sets the width of an elements right border."
+msgstr ""
+
+#: options.php:1181
+msgid "Sets the color of an elements right border."
+msgstr ""
+
+#: options.php:1186
+msgid "Border Bottom"
+msgstr "Alt Kenar"
+
+#: options.php:1198
+msgid "Sets the style of an elements bottom border."
+msgstr ""
+
+#: options.php:1209
+msgid "Sets the width of an elements bottom border."
+msgstr ""
+
+#: options.php:1215
+msgid "Sets the color of an elements bottom border."
+msgstr ""
+
+#: options.php:1220
+msgid "Border Left"
+msgstr "Sol Kenar"
+
+#: options.php:1232
+msgid "Sets the style of an elements left border."
+msgstr ""
+
+#: options.php:1243
+msgid "Sets the width of an elements left border."
+msgstr ""
+
+#: options.php:1249
+msgid "Sets the color of an elements left border."
+msgstr ""
+
+#: options.php:1259
+msgid "Border Radius"
+msgstr "Kenar yuvarlaklığı"
+
+#: options.php:1264
+msgid "Top Left Radius"
+msgstr "Üst Sol Kenar Yarıçapı"
+
+#: options.php:1270
+msgid "Defines the shape of the border of the top-left corner"
+msgstr ""
+
+#: options.php:1275
+msgid "Top Right Radius"
+msgstr "Üst Sağ Kenar Yarıçapı"
+
+#: options.php:1281
+msgid "Defines the shape of the border of the top-right corner"
+msgstr ""
+
+#: options.php:1286
+msgid "Bottom Left Radius"
+msgstr "Alt Sol Yarıçapı"
+
+#: options.php:1292
+msgid "Defines the shape of the border of the bottom-left corner"
+msgstr ""
+
+#: options.php:1297
+msgid "Bottom Right Radius"
+msgstr "Alt Sağ Yarıçapı"
+
+#: options.php:1303
+msgid "Defines the shape of the border of the bottom-right corner"
+msgstr ""
+
+#: options.php:1311 options.php:1327
+msgid "Position"
+msgstr "Konum"
+
+#: options.php:1316
+msgid "Z Index"
+msgstr "Z Endeksi"
+
+#: options.php:1322
+msgid ""
+"Specifies the stack order of an element. Z index only works on positioned "
+"elements (position:absolute, position:relative, or position:fixed)."
+msgstr ""
+
+#: options.php:1335
+msgid "Specifies the type of positioning method used for an element"
+msgstr ""
+
+#: options.php:1341
+msgid "Top"
+msgstr "Üst Konum"
+
+#: options.php:1347
+msgid ""
+"For absolutely: positioned elements, the top property sets the top edge of "
+"an element to a unit above/below the top edge of its containing element. For "
+"relatively: positioned elements, the top property sets the top edge of an "
+"element to a unit above/below its normal position."
+msgstr ""
+
+#: options.php:1352
+msgid "Bottom"
+msgstr "Alt Konum"
+
+#: options.php:1358
+msgid ""
+"For absolutely: positioned elements, the bottom property sets the bottom "
+"edge of an element to a unit above/below the bottom edge of its containing "
+"element. For relatively: positioned elements, the bottom property sets the "
+"bottom edge of an element to a unit above/below its normal position."
+msgstr ""
+
+#: options.php:1363
+msgid "Left"
+msgstr "Sol Konum"
+
+#: options.php:1369
+msgid ""
+"For absolutely: positioned elements, the left property sets the left edge of "
+"an element to a unit to the left/right of the left edge of its containing "
+"element. For relatively: positioned elements, the left property sets the "
+"left edge of an element to a unit to the left/right to its normal position."
+msgstr ""
+
+#: options.php:1374
+msgid "Right"
+msgstr "Sağ Konum"
+
+#: options.php:1380
+msgid ""
+"For absolutely: positioned elements, the right property sets the right edge "
+"of an element to a unit to the left/right of the right edge of its "
+"containing element. For relatively: positioned elements, the right property "
+"sets the right edge of an element to a unit to the left/right to its normal "
+"position."
+msgstr ""
+
+#: options.php:1387
+msgid "Size"
+msgstr "Boyut"
+
+#: options.php:1398
+msgid "Sets the width of an element"
+msgstr ""
+
+#: options.php:1403
+msgid "Height"
+msgstr "Yükseklik"
+
+#: options.php:1409
+msgid "sets the height of an element"
+msgstr ""
+
+#: options.php:1414
+msgid "Minimum Width"
+msgstr "Asgari Genişlik"
+
+#: options.php:1420
+msgid "is used to set the minimum width of an element"
+msgstr ""
+
+#: options.php:1425
+msgid "Maximum Width"
+msgstr "Maksimum Genişlik"
+
+#: options.php:1431
+msgid "is used to set the maximum width of an element"
+msgstr ""
+
+#: options.php:1436
+msgid "Minimum Height"
+msgstr "Asgari Yükseklik"
+
+#: options.php:1442
+msgid "is used to set the minimum height of an element"
+msgstr ""
+
+#: options.php:1447
+msgid "Maximum Height"
+msgstr "Maksimum Yükseklik"
+
+#: options.php:1453
+msgid "is used to set the maximum height of an element"
+msgstr ""
+
+#: options.php:1461
+msgid "Animation"
+msgstr "Animasyon"
+
+#: options.php:1464
+msgid "If animation property not working, please set display block property."
+msgstr ""
+
+#: options.php:1469
+msgid "Animation Name"
+msgstr "Animasyon Adı"
+
+#: options.php:1531
+msgid "Animation Play"
+msgstr "Animation"
+
+#: options.php:1533
+msgid "onScreen"
+msgstr "Ekranda Görününce"
+
+#: options.php:1534
+msgid "Hover"
+msgstr "Üzerine Gelince"
+
+#: options.php:1535
+msgid "Click"
+msgstr "Tıklanınca"
+
+#: options.php:1536
+msgid "Focus"
+msgstr ""
+
+#: options.php:1539
+msgid ""
+"OnScreen: Playing animation when element visible on screen. Hover: Playing "
+"animation when mouse on element. Click: Playing animation when element "
+"clicked. FOcus: Playing element when click on an text field."
+msgstr ""
+
+#: options.php:1544
+msgid "animation Iteration"
+msgstr "Animasyon Tekrarlama"
+
+#: options.php:1548
+msgid "infinite"
+msgstr "Sınırsız"
+
+#: options.php:1560
+msgid "Filters"
+msgstr "Filtreler"
+
+#: options.php:1562
+msgid "Internet explorer not support filters property."
+msgstr ""
+
+#: options.php:1566
+msgid "Blur"
+msgstr "Bulanıklık"
+
+#: options.php:1576
+msgid "Brightness"
+msgstr "Parlaklık"
+
+#: options.php:1586
+msgid "Grayscale"
+msgstr "Gri Tonlama"
+
+#: options.php:1596
+msgid "Contrast"
+msgstr "Kontrast"
+
+#: options.php:1606
+msgid "Hue Rotate"
+msgstr "Renk Tonu"
+
+#: options.php:1616
+msgid "Saturate"
+msgstr "Doygunluk"
+
+#: options.php:1626
+msgid "Sepia"
+msgstr "Sepia"
+
+#: options.php:1637
+msgid "Box Shadow"
+msgstr "Gölge"
+
+#: options.php:1640
+msgid ""
+"\"box shadow\" adding shadow to element. If you want Diable box shadow "
+"property, set zero to all box shadow options."
+msgstr ""
+
+#: options.php:1649
+msgid "Horizontal Length"
+msgstr "Yatay Uzunluk"
+
+#: options.php:1659
+msgid "Vertical Length"
+msgstr "Dikey Uzunluk"
+
+#: options.php:1669
+msgid "Blur Radius"
+msgstr "Yarıçap"
+
+#: options.php:1679
+msgid "Spread"
+msgstr "Yayılma"
+
+#: options.php:1689
+msgid "Inset"
+msgstr "İç Veya Dış Gölge"
+
+#: options.php:1691
+msgid "no"
+msgstr "Hayır"
+
+#: options.php:1692
+msgid "inset"
+msgstr "İç"
+
+#: options.php:1701
+msgid "Extra"
+msgstr "Ekstra"
+
+#: options.php:1704
+msgid "Transform"
+msgstr "Dönüştürme"
+
+#: options.php:1708
+msgid "Scale"
+msgstr "Ölçeklendir"
+
+#: options.php:1718
+msgid "Rotate"
+msgstr "Döndür"
+
+#: options.php:1728
+msgid "Translate X"
+msgstr ""
+
+#: options.php:1738
+msgid "Translate Y"
+msgstr ""
+
+#: options.php:1748
+msgid "Skew X"
+msgstr "Çarpıt X"
+
+#: options.php:1758
+msgid "skew Y"
+msgstr "Çarpıt Y"
+
+#: options.php:1770
+msgid "Opacity"
+msgstr "Opaklık"
+
+#: options.php:1776
+msgid ""
+"The opacity property can take a value from 0.0 - 1.0. The lower value, the "
+"more transparent."
+msgstr ""
+
+#: options.php:1781
+msgid "Float"
+msgstr "Kaydırma (Float)"
+
+#: options.php:1787
+msgid "Specifies whether or not a box (an element) should float."
+msgstr ""
+
+#: options.php:1792
+msgid "Box Sizing"
+msgstr "Boyutlandırma"
+
+#: options.php:1794
+msgid "border-box"
+msgstr ""
+
+#: options.php:1795
+msgid "content-box"
+msgstr ""
+
+#: options.php:1798
+msgid ""
+"is used to tell the browser what the sizing properties (width and height) "
+"should include. Should they include the border-box? Or just the content-box "
+"(which is the default value of the width and height properties)?"
+msgstr ""
+
+#: options.php:1803
+msgid "Display"
+msgstr ""
+
+#: options.php:1805
+msgid "inline"
+msgstr "Satır içi"
+
+#: options.php:1806
+msgid "block"
+msgstr "blok"
+
+#: options.php:1807
+msgid "inl-blck"
+msgstr ""
+
+#: options.php:1808
+msgid "tbl-cell"
+msgstr ""
+
+#: options.php:1811
+msgid "Specifies the type of box used for an element."
+msgstr ""
+
+#: options.php:1816
+msgid "Overflow X"
+msgstr ""
+
+#: options.php:1819 options.php:1831
+msgid "scroll"
+msgstr "Kaydır"
+
+#: options.php:1820 options.php:1832
+msgid "auto"
+msgstr "otomatik"
+
+#: options.php:1823 options.php:1835
+msgid ""
+"specifies what to do with the left/right edges of the content - if it "
+"overflows the elements content area."
+msgstr ""
+
+#: options.php:1828
+msgid "Overflow Y"
+msgstr ""
+
+#: options.php:1843
+msgid "Documentation"
+msgstr "Dökümantasyon"
+
+#: yellow-pencil.php:244 yellow-pencil.php:1468
+msgid "Save"
+msgstr "Uygula"
+
+#: yellow-pencil.php:246
+msgid "Select Body Tag"
+msgstr "Body etiketini  Seç"
+
+#: yellow-pencil.php:248
+msgid "Reset Options"
+msgstr "Ayarları Resetle"
+
+#: yellow-pencil.php:250 yellow-pencil.php:257
+msgid "Desktop Mode"
+msgstr "Masaüstü"
+
+#: yellow-pencil.php:252 yellow-pencil.php:258
+msgid "Tablet Mode"
+msgstr "Tablet"
+
+#: yellow-pencil.php:254 yellow-pencil.php:259
+msgid "Mobile Mode"
+msgstr "Mobil"
+
+#: yellow-pencil.php:504
+msgid "Customize Theme"
+msgstr ""
+
+#: yellow-pencil.php:504
+msgid ""
+"Apply global style if you want customize any element that showing on every "
+"pages 'Header', 'Navigation', 'Footer' etc. Global styles will show on all "
+"pages."
+msgstr ""
+
+#: yellow-pencil.php:504
+msgid "Apply Global Style to theme"
+msgstr "Tüm Sayfalara Stil Uygula"
+
+#: yellow-pencil.php:509
+msgid "Customize Pages"
+msgstr ""
+
+#: yellow-pencil.php:509
+msgid ""
+"Use this links if you want customize only some pages. For example if you "
+"customize 'Abc' page, this changes will work only this page."
+msgstr ""
+
+#: yellow-pencil.php:509
+msgid "Apply style to pages"
+msgstr ""
+
+#: yellow-pencil.php:513
+msgid "Customize Similar Pages"
+msgstr ""
+
+#: yellow-pencil.php:513
+msgid ""
+"Use this links if you want customize all Similar pages. For example if you "
+"customize any category page, this changes will only work on all category "
+"pages."
+msgstr ""
+
+#: yellow-pencil.php:513
+msgid "Apply Style to all similar pages"
+msgstr ""
+
+#: yellow-pencil.php:519
+msgid "Click on any element that you want customize!"
+msgstr ""
+
+#: yellow-pencil.php:1467
+msgid "Saving"
+msgstr "Bekleyin"
+
+#: yellow-pencil.php:1469
+msgid "Saved"
+msgstr "Bitti"
+
+#: yellow-pencil.php:1470
+msgid "Not Saved because this is only demo!"
+msgstr "Bu sadece demo olduğu için kaydedilemez."
+
+#: yellow-pencil.php:1472
+msgid "Logo"
+msgstr ""
+
+#: yellow-pencil.php:1473
+msgid "Google Map"
+msgstr "Google Harita"
+
+#: yellow-pencil.php:1474
+msgid "Entry Title Link"
+msgstr "Yazı Başlığı Bağlantısı"
+
+#: yellow-pencil.php:1475
+msgid "Category Link"
+msgstr "Kategori Bağlantısı"
+
+#: yellow-pencil.php:1476
+msgid "Tag Link"
+msgstr "Etiket Bağlantısı"
+
+#: yellow-pencil.php:1477
+msgid "Widget"
+msgstr "Eklenti"
+
+#: yellow-pencil.php:1478
+msgid "Font Awesome Icon"
+msgstr "İcon"
+
+#: yellow-pencil.php:1479
+msgid "Submit Button"
+msgstr "Gönder Düğmesi"
+
+#: yellow-pencil.php:1480
+msgid "Menu Item"
+msgstr "Menü Öğesi"
+
+#: yellow-pencil.php:1481
+msgid "Post Meta Division"
+msgstr "Mesaj Meta Bölümü"
+
+#: yellow-pencil.php:1482
+msgid "Comment Reply Title"
+msgstr "Yorum Cevap Başlığı"
+
+#: yellow-pencil.php:1483
+msgid "Login Info"
+msgstr "Giriş Bilgisi"
+
+#: yellow-pencil.php:1484
+msgid "Allowed Tags"
+msgstr "İzin verilen etiketler"
+
+#: yellow-pencil.php:1485
+msgid "Post Title"
+msgstr "Yazı Başlığı"
+
+#: yellow-pencil.php:1486
+msgid "Comment Form"
+msgstr "Yorum Formu"
+
+#: yellow-pencil.php:1487
+msgid "Widget title"
+msgstr "Bileşen başlığı"
+
+#: yellow-pencil.php:1488
+msgid "Tag Cloud"
+msgstr "Etiket Bulutu"
+
+#: yellow-pencil.php:1489
+msgid "Row"
+msgstr "Satır"
+
+#: yellow-pencil.php:1490
+msgid "Button"
+msgstr "Buton"
+
+#: yellow-pencil.php:1491
+msgid "Lead"
+msgstr ""
+
+#: yellow-pencil.php:1492
+msgid "Well"
+msgstr ""
+
+#: yellow-pencil.php:1493
+msgid "Accordion Toggle"
+msgstr ""
+
+#: yellow-pencil.php:1494
+msgid "Accordion Content"
+msgstr ""
+
+#: yellow-pencil.php:1495
+msgid "Alert Division"
+msgstr "Uyarı Bölümü"
+
+#: yellow-pencil.php:1496
+msgid "Footer Content"
+msgstr "Alt Kısım İçeriği"
+
+#: yellow-pencil.php:1497
+msgid "Global Section"
+msgstr "Gövde"
+
+#: yellow-pencil.php:1498
+msgid "Show More Link"
+msgstr "Daha Fazla Göster"
+
+#: yellow-pencil.php:1499
+msgid "Wrapper"
+msgstr "Gövde"
+
+#: yellow-pencil.php:1500
+msgid "Article title"
+msgstr "Makale Başlığı"
+
+#: yellow-pencil.php:1501
+msgid "Column"
+msgstr "Sütun"
+
+#: yellow-pencil.php:1502
+msgid "Post Division"
+msgstr "Yazı Bölümü"
+
+#: yellow-pencil.php:1503
+msgid "Content Division"
+msgstr "İçerik Bölümü"
+
+#: yellow-pencil.php:1504
+msgid "Entry Title"
+msgstr "Yazı Başlığı"
+
+#: yellow-pencil.php:1505
+msgid "Entry Content"
+msgstr "Yazı İçeriği"
+
+#: yellow-pencil.php:1506
+msgid "Entry Footer"
+msgstr "Yazı Alt Kısmı"
+
+#: yellow-pencil.php:1507
+msgid "Entry Header"
+msgstr "Yazı Üst Kısmı"
+
+#: yellow-pencil.php:1508
+msgid "Entry Time"
+msgstr "Yazılma Tarihi"
+
+#: yellow-pencil.php:1509
+msgid "Post Edit Link"
+msgstr "Yazıyı Düzenleme Bağlantısı"
+
+#: yellow-pencil.php:1510
+msgid "Post Thumbnail"
+msgstr "Yazı Görseli"
+
+#: yellow-pencil.php:1511
+msgid "Thumbnail"
+msgstr "Görsel"
+
+#: yellow-pencil.php:1512
+msgid "Thumbnail Image"
+msgstr "Görsel"
+
+#: yellow-pencil.php:1513
+msgid "Edit Link"
+msgstr "Düzenleme Bağlantısı"
+
+#: yellow-pencil.php:1514
+msgid "Comments Link Division"
+msgstr "Yorum Link Bölümü"
+
+#: yellow-pencil.php:1515
+msgid "Site Description"
+msgstr "Site Açıklaması"
+
+#: yellow-pencil.php:1516
+msgid "Post Break"
+msgstr ""
+
+#: yellow-pencil.php:1517
+msgid "Paragraph"
+msgstr "Paragraf"
+
+#: yellow-pencil.php:1518
+msgid "Line Break"
+msgstr ""
+
+#: yellow-pencil.php:1519
+msgid "Horizontal Rule"
+msgstr "Yatay Çizgi"
+
+#: yellow-pencil.php:1520
+msgid "Link"
+msgstr "Bağlantı"
+
+#: yellow-pencil.php:1521
+msgid "List Item"
+msgstr "Liste Öğesi"
+
+#: yellow-pencil.php:1522
+msgid "Unorganized List"
+msgstr "Liste"
+
+#: yellow-pencil.php:1523
+msgid "Image"
+msgstr "Görsel"
+
+#: yellow-pencil.php:1524
+msgid "Bold Tag"
+msgstr "Kalın Yazı"
+
+#: yellow-pencil.php:1525
+msgid "Italic Tag"
+msgstr "İtalik Yazı"
+
+#: yellow-pencil.php:1526
+msgid "Strong Tag"
+msgstr "Kalın Yazı"
+
+#: yellow-pencil.php:1527
+msgid "Block Quote"
+msgstr "Alıntı Kısmı"
+
+#: yellow-pencil.php:1528
+msgid "Preformatted"
+msgstr ""
+
+#: yellow-pencil.php:1529
+msgid "Table"
+msgstr "Tablo"
+
+#: yellow-pencil.php:1530
+msgid "Table Row"
+msgstr "Tablo satırı"
+
+#: yellow-pencil.php:1531
+msgid "Table Data"
+msgstr "Tablo Verisi"
+
+#: yellow-pencil.php:1532
+msgid "Header Division"
+msgstr "Üst Kısım"
+
+#: yellow-pencil.php:1533
+msgid "Footer Division"
+msgstr "Alt Kısım"
+
+#: yellow-pencil.php:1534
+msgid "Section"
+msgstr "Bölüm"
+
+#: yellow-pencil.php:1535
+msgid "Form Division"
+msgstr "Form Bölümü"
+
+#: yellow-pencil.php:1536
+msgid "Centred block"
+msgstr "Ortalanmış Bölme"
+
+#: yellow-pencil.php:1537
+msgid "Definition list"
+msgstr ""
+
+#: yellow-pencil.php:1538
+msgid "Definition term"
+msgstr ""
+
+#: yellow-pencil.php:1539
+msgid "Definition description"
+msgstr ""
+
+#: yellow-pencil.php:1540
+msgid "Header"
+msgstr "Başlık"
+
+#: yellow-pencil.php:1541
+msgid "Level"
+msgstr "Seviye"
+
+#: yellow-pencil.php:1542
+msgid "Smaller text"
+msgstr "Küçük Yazı"
+
+#: yellow-pencil.php:1543
+msgid "Text Area"
+msgstr "Yazı Kutucuğu"
+
+#: yellow-pencil.php:1544
+msgid "Body Of Table"
+msgstr "Tablo Gövdesi"
+
+#: yellow-pencil.php:1545
+msgid "Head Of Table"
+msgstr "Tablo Üstü"
+
+#: yellow-pencil.php:1546
+msgid "Foot of table"
+msgstr "Tablo Altı"
+
+#: yellow-pencil.php:1547
+msgid "Underline text"
+msgstr "Altı çizgili yazı"
+
+#: yellow-pencil.php:1548
+msgid "Span"
+msgstr "Karış"
+
+#: yellow-pencil.php:1549
+msgid "Quotation"
+msgstr "Soru"
+
+#: yellow-pencil.php:1550
+msgid "Citation"
+msgstr ""
+
+#: yellow-pencil.php:1551
+msgid "Extract of code"
+msgstr "Kod Özü Gösterici"
+
+#: yellow-pencil.php:1552
+msgid "Navigation"
+msgstr "Menu"
+
+#: yellow-pencil.php:1553
+msgid "Label"
+msgstr "Etiket"
+
+#: yellow-pencil.php:1554
+msgid "Time"
+msgstr "Zaman"
+
+#: yellow-pencil.php:1555
+msgid "Division"
+msgstr "Kısım"
+
+#: yellow-pencil.php:1556
+msgid "Caption Of table"
+msgstr "Tablo Başlığı"
+
+#: yellow-pencil.php:1557
+msgid "Input"
+msgstr "Giriş Kutucuğu"
+
+#: yellow-pencil.php:1558
+msgid "Are you sure you want to leave page without saving?"
+msgstr "Ayarları kaydetmeden çıkmak istiyor musunuz?"
+
+#: yellow-pencil.php:1559
+msgid "You want reset current options?"
+msgstr "Geçerli ayarları silmek ister misin?"
+
+#: yellow-pencil.php:1620
+msgid "CSS Editor"
+msgstr "CSS Düzenleyici"
+
+#: yellow-pencil.php:1622
+msgid "Undo"
+msgstr "Geri"
+
+#: yellow-pencil.php:1623
+msgid "Redo"
+msgstr "İleri"
+
+#: yellow-pencil.php:1625
+msgid "Fullscreen"
+msgstr "Tam Ekran"
+
+#: yellow-pencil.php:1637
+msgid "Hide CSS Editor"
+msgstr "Gizle"
+
+#: yellow-pencil.php:1692
+msgid "Get Premium"
+msgstr "Premium'a Yükselt"
+
+#: yellow-pencil.php:1749
+msgid "Settings saved."
+msgstr "Değişiklikler kaydedildi."
+
+#: yellow-pencil.php:1760
+msgid ""
+"You will see all customized pages here. You can easily delete the style from "
+"this page or you can customize."
+msgstr ""
+"Düzenlediğiniz tüm sayfaları burada göreceksiniz. Buradan kolaylıkla "
+"istediğiniz değişiklikleri silebilir veya tekrar düzenleyebilirsiniz."
+
+#: yellow-pencil.php:1768
+msgid "Global Theme Styles"
+msgstr ""
+
+#: yellow-pencil.php:1769 yellow-pencil.php:1793 yellow-pencil.php:1812
+#: yellow-pencil.php:1821 yellow-pencil.php:1830 yellow-pencil.php:1848
+#: yellow-pencil.php:1866 yellow-pencil.php:1875 yellow-pencil.php:1897
+msgid "Delete"
+msgstr "Sil"
+
+#: yellow-pencil.php:1771 yellow-pencil.php:1795 yellow-pencil.php:1813
+#: yellow-pencil.php:1822 yellow-pencil.php:1831 yellow-pencil.php:1849
+#: yellow-pencil.php:1867 yellow-pencil.php:1876 yellow-pencil.php:1899
+msgid "Customize"
+msgstr "Düzenle"
+
+#: yellow-pencil.php:1915
+msgid "No CSS Source! Customize something on your theme."
+msgstr "Yapmış olduğunuz hiç bir değişiklik bulunmuyor."
+
+#~ msgid "inline-block"
+#~ msgstr "Satır blok"
+
+#~ msgid "Global Style"
+#~ msgstr "Tüm Sayfalara Stil"
+
+#~ msgid ""
+#~ "if you want customize any element showing on everypages so apply global "
+#~ "style. So if you want edit Logo, menu, footer etc, apply global style."
+#~ msgstr ""
+#~ "Eğer yapacağız değişikliğin tüm sayfalarda uygulanmasını istiyorsanız bu "
+#~ "seçeneği kullanmanız gerekiyor."
+
+#~ msgid "One Page Style"
+#~ msgstr "Tek Sayfa Stil"
+
+#~ msgid "if you want customize just one page so apply style to just one page."
+#~ msgstr ""
+#~ "Eğer sadece bir tek sayfaya stil uygulamak istiyorsan bu seçeneği kullan."
+
+#~ msgid "Apply style to just one page"
+#~ msgstr "Sadece Tek Bir Sayfaya Stil Uygula"
+
+#~ msgid "Global Single Pages"
+#~ msgstr "Tüm Tekil Sayfalar"
+
+#~ msgid ""
+#~ "if you want customize just all posts pages so apply global style to "
+#~ "single pages."
+#~ msgstr ""
+#~ "Örneğin tüm yazı sayfalarını düzenlemek istiyorsan bu seçeneği kullan."
+
+#~ msgid "Apply Global Style to single pages"
+#~ msgstr "Tüm Tekil Sayfalara Stil Uygula"
+
+#~ msgid "Click on any element that you want edit."
+#~ msgstr "Düzenlemek istediğin bir bölüme tıkla."
+
+#~ msgid "Flat Colors"
+#~ msgstr "Flat Renkler"
+
+#~ msgid "Nice Colors"
+#~ msgstr "Hoş Renkler"
+
+#~ msgid "uppercase"
+#~ msgstr "Büyük"
+
+#~ msgid "Ruler"
+#~ msgstr "Cetvel"
+
+#~ msgid "CSS EDITOR"
+#~ msgstr "CSS DUZENLEYICI"
+
+#~ msgid "Filters Not support on internet explorer."
+#~ msgstr "Bu Özellik İnternet Exloperer'de Çalışmaz."
+
+#~ msgid "Border Top Style"
+#~ msgstr "Üst Çerçeve Biçimi"
+
+#~ msgid "Border Top Width"
+#~ msgstr "Üst Çerçeve Genişliği"
+
+#~ msgid "Border Top Color"
+#~ msgstr "Üst Çerçeve Rengi"
+
+#~ msgid "Border Right Style"
+#~ msgstr "Sağ Çerçeve Biçimi"
+
+#~ msgid "Border Right Width"
+#~ msgstr "Sağ Çerçeve Genişliği"
+
+#~ msgid "Border Right Color"
+#~ msgstr "Sağ Çerçeve Rengi"
+
+#~ msgid "Border Bottom Style"
+#~ msgstr "Alt Çerçeve Biçimi"
+
+#~ msgid "Border Bottom Width"
+#~ msgstr "Alt Çerçeve Genişliği"
+
+#~ msgid "Border Bot. Color"
+#~ msgstr "Alt Çerçeve Rengi"
+
+#~ msgid "Border Left Style"
+#~ msgstr "Sol Çerçeve Biçimi"
+
+#~ msgid "Border Left Width"
+#~ msgstr "Sol Çerçeve Genişliği"
+
+#~ msgid "Border Left Color"
+#~ msgstr "Sol Çerçeve Rengi"
+
+#~ msgid "inherit"
+#~ msgstr "Varsayılan"
+
+#~ msgid "None"
+#~ msgstr "Hiçbiri"
+
+#~ msgid "repeat"
+#~ msgstr "Tekrar"
+
+#~ msgid ""
+#~ "\"box shadow\" adding shadow to element. If you want disable box shadow "
+#~ "property, set zero to all box shadow options."
+#~ msgstr ""
+#~ "Bu özellik elemente gölge ekler, özelliği iptal etmek için ayarlara sıfır "
+#~ "değeri verin."
