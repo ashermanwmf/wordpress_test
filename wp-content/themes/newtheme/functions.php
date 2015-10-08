@@ -7,5 +7,4 @@ function awesome_script_enqueue() {
 }
 
 add_action('wp_enqueue_scripts', awesome_script_enqueue);
-
-?> 
+ 

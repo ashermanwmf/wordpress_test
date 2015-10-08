@@ -1,11 +1,64 @@
-html
-body{
+.menu ul {
+
+	list-style-type: none ;		
+
+}
+
+.menu ul li {
+	padding: 10px;
+	float: left;
+	position:left;
+}
+
+html body{
 	margin: 0;
-	color: #333;
+	color: #FFFFFF;
 	background: #ccc;
 	font: sans-serif;
 }
 
-body {
-	padding: 20px;
+.index_body {
+
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-bottom: 5%;
+	padding-top: 5%;
+
 }
+
+.index_body1 {
+	
+	padding-left: 20%;
+        padding-right: 20%;
+        padding-bottom: 5%;
+        padding-top: 5%;
+	background: #FFFFFF;
+	color: #000000;
+
+}
+
+.index_body2 {
+
+	padding-left: 20%;
+        padding-right: 20%;
+        padding-bottom: 5%;
+        padding-top: 5%;
+
+}
+
+.index_head {
+	
+	
+}
+
+.index_footer {
+
+	background:#1F2E2E;
+	width: 100%;
+	height: 200px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+
+
