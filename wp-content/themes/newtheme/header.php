@@ -5,14 +5,7 @@
 		<title>Awesome Theme</title>
 		<?php wp_head(); ?>
 	</head>
-
-<div class="menu">
-
-<ul>
-<li>Home</li>
-<li>About</li>
-<li>More</li>
-</ul>
-
-</div>	
-	<body>
+	<div class="main_menu">	
+		<?php wp_nav_menu(array('theme_location'=>'primary')); ?>
+	</div>
+<body>
