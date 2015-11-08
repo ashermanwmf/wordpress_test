@@ -1,34 +1,34 @@
 <?php get_header(); ?>
 
-<div class="index_body">
 
-<h1 class="index_head" >This is my index</h1>
 
-<p>
-I am a Digital Communications Specialist with a passion for user experience, content and community management, and analytics. My background in Web Design and CSS helps me to work dynamically with campaigning/marketing.
-</p>
-<p>
-My work and play are similar because they both occur on the same machine. I am fortunate to know so much about myself and I want to know more about the world. I learn something new everyday through the internet and tend to back source and do my own searches to grasp a curious concept. The world is full of connections and I have found a way to experience them.
-</p>
+<div class="index_body1">
+
+Sample index page. This is index.php
 
 </div>
 
 <div class="index_body1">
-<span id="About"></span>
 
-<h1>This is a third section for more body copy</h1>
+<h1>Projects</h1>
 
-<i>space for a js carousel</i>
+<?php
 
-</div>
+        if( have_posts() ):
 
-</div>
+                while( have_posts() ): the_post(); ?>
+                        <div class="post_container">
+                        <h3 class="post_title"><?php the_title(); ?></h3>
+                        <small class="post_summary">Posted on: <?php the_time('F j, Y'); ?> at <?php the_time('g:i a'); ?>, in <?php the_category(); ?></small>
 
-<div class="index_body2">
+                        <p class="post_body"><?php the_content(); ?></p>
+                        </div>
 
-<h1>This is a third section for more body copy</h1>
+                <?php endwhile;
 
-<i>space for a plugin adition (add css to html, something)</i>
+        endif;
+
+?>
 
 </div>
 
