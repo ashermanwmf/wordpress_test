@@ -4,6 +4,9 @@
 		<meta charset="utf-8">
 		<title>Awesome Theme</title>
 		<?php wp_head(); ?>
+		<script>
+			$(document).ready(console.log('hi2'));
+		</script>		
 	</head>
 	<nav class="navbar navbar-inverse navbar-fixed-top">	
 		<div class="container">

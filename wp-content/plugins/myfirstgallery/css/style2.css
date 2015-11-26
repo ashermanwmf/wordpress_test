@@ -1,0 +1,36 @@
+body.my-class div#one, body.my-class div#content, body.page-id-43 div#p1, body.page-id-43 div#p2, body.page-id-43 div#p3{
+	padding: 10%;
+}
+
+body.my-class div#one {
+	background-color: #558AB7;
+}
+
+body.my-class div#one  h2 {
+	color: #000; 
+}
+
+body.my-class div#one p {
+        color: #FFF;
+}
+
+body.my-class div#content {
+        background-color: #025D93;
+	padding-bottom: 10%;
+}
+
+body.my-class div#content h2 {
+	font-size: 18pt;
+}
+
+body.page-id-43 div#p1 {
+	background-color: #009F55;
+}
+
+body.page-id-43 div#p2 {
+        background-color: #DF5440 ;
+}
+
+body.page-id-43 div#p3 {
+	background-color: #558AB7;
+}

@@ -1,13 +1,12 @@
-<?php 
+<?php
 
 /*
 
-Template Name: About
+Template Name: Blog
 
 */
 
-
-get_header(); ?>
+get_header() ?>
 
 <div id="content">
 
@@ -16,8 +15,8 @@ get_header(); ?>
         if( have_posts() ):
 
                 while( have_posts() ): the_post(); ?>
-			
-                        <?php the_content(); ?>
+
+                        <p class="post_body"><?php the_content(); ?></p>
 
                 <?php endwhile;
 
@@ -27,5 +26,6 @@ get_header(); ?>
 
 
 </div>
+
 
 <?php get_footer(); ?>

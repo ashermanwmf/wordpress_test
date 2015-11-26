@@ -6,6 +6,14 @@
  * Author: Andrew
  * Version: 1.0
  */
+function awesome_script_enqueue2() {
+
+	wp_enqueue_style('customstyle2', '/wp-content/plugins/myfirstgallery/css/style2.css', array(), '1.0.0', 'all');
+	wp_enqueue_script( 'awesome2js', '/wp-content/plugins/myfirstgallery/js/awesome2.js', array(), '1.0.0', true );
+	
+}
+
+add_action('wp_enqueue_scripts', 'awesome_script_enqueue2');
 
 add_action('admin_menu', 'myfirstplugin_admin_actions');
 function myfirstplugin_admin_actions() {

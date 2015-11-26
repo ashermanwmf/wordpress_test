@@ -2,27 +2,9 @@ nav ul li{
 
 	list-style-type: none ;		
 	float: left;
-	padding-left: 5px;
+	padding: 10px; 
 }
 
-body  {
-
-	padding: 5%;
-	background-color: RGBA(30, 112, 162, .5) !important;
-}
-
-body div h1 {
-
-	font-style: italic;
-}
-
-body div p {
-
-	font-size: 14pt;
-	font-color: #000 !important;
-	margin-top: -1%;
-
-}
 
 /* Random CSS I found online that looked cool (nav bar test) */
 
